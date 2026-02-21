@@ -1,0 +1,1 @@
+This folder has the movies, and books data needed for the recommender sysytem
